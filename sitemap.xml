@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecluster-autoscaling/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/cluster-autoscaling/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/cluster-autoscaling/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecost_optimization/awareness/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/cost_optimization/awareness/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/cost_optimization/awareness/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecost_optimization/cost-effective/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/cost_optimization/cost-effective/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/cost_optimization/cost-effective/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecost_optimization/cost_optimization_index/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/cost_optimization/cost_optimization_index/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/cost_optimization/cost_optimization_index/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecost_optimization/optimizing/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/cost_optimization/optimizing/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/cost_optimization/optimizing/"/>
+         
+    </url>
+    <url>
+         <loc>Nonekarpenter/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/karpenter/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/karpenter/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/CoreDNS/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/CoreDNS/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/CoreDNS/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/custom-networking/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/custom-networking/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/custom-networking/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/index/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/index/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/index/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/ipv6/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/ipv6/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/ipv6/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/loadbalancing/loadbalancing/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/loadbalancing/loadbalancing/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/loadbalancing/loadbalancing/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/prefix-mode/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/prefix-mode/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/prefix-mode/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/sgpp/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/sgpp/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/sgpp/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/subnets/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/subnets/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/subnets/"/>
+         
+    </url>
+    <url>
+         <loc>Nonenetworking/vpc-cni/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/vpc-cni/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/networking/vpc-cni/"/>
+         
+    </url>
+    <url>
+         <loc>Noneoperational_excellence/operational_excellence/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/operational_excellence/operational_excellence/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/operational_excellence/operational_excellence/"/>
+         
+    </url>
+    <url>
+         <loc>Noneperformance/performance/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/performance/performance/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/performance/performance/"/>
+         
+    </url>
+    <url>
+         <loc>Nonereliability/docs/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reliability/docs/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/reliability/docs/"/>
+         
+    </url>
+    <url>
+         <loc>Nonereliability/docs/application/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reliability/docs/application/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/reliability/docs/application/"/>
+         
+    </url>
+    <url>
+         <loc>Nonereliability/docs/controlplane/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reliability/docs/controlplane/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/reliability/docs/controlplane/"/>
+         
+    </url>
+    <url>
+         <loc>Nonereliability/docs/dataplane/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reliability/docs/dataplane/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/reliability/docs/dataplane/"/>
+         
+    </url>
+    <url>
+         <loc>Nonereliability/docs/networkmanagement/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reliability/docs/networkmanagement/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/reliability/docs/networkmanagement/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/compliance/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/compliance/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/compliance/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/data/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/data/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/data/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/detective/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/detective/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/detective/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/hosts/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/hosts/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/hosts/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/iam/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/iam/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/iam/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/image/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/image/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/image/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/incidents/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/incidents/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/incidents/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/multitenancy/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/multitenancy/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/multitenancy/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/network/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/network/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/network/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/pods/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/pods/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/pods/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesecurity/docs/runtime/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/docs/runtime/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/security/docs/runtime/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/ami/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/ami/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/ami/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/gmsa/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/gmsa/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/gmsa/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/hardening/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/hardening/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/hardening/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/heterogeneous/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/heterogeneous/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/heterogeneous/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/images/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/images/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/images/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/licensing/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/licensing/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/licensing/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/logging/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/logging/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/logging/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/monitoring/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/monitoring/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/monitoring/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/networking/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/networking/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/networking/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/oom/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/oom/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/oom/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/patching/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/patching/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/patching/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/scheduling/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/scheduling/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/scheduling/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/security/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/security/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/security/"/>
+         
+    </url>
+    <url>
+         <loc>Nonewindows/docs/storage/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/windows/docs/storage/"/>
+         <xhtml:link rel="alternate" hreflang="kr" href="Nonekr/windows/docs/storage/"/>
+         
+    </url>
+</urlset>
